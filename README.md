@@ -4,7 +4,7 @@ I'm **Saurav**, and I'm currently an *UG at IITK doing my bachelor's* in Electri
 
 I'm a **Frontend Engineer** 🥳, aiming to become **Full Stack Web Dev** some day... 🤩
 
-I love new things (That's why you see this thing here 😎) , and to do new stuff, as long as It makes me spin my Processor.😂
+I love new things, and doing new stuff, as long as It makes me spin my Processor.😂
 
 I'm looking for some open source projects to contribute to:
 My skillset includes but is not limited to:
@@ -15,8 +15,7 @@ My skillset includes but is not limited to:
 4. GoLang 🤯
 5. TypeScript 😈
 
-I also maintain [Medium Editor](https://github.com/yabwe/medium-editor)
-Do check my project [The Vision](https://sauravk.vision)
+I also tried to maintain [Medium Editor](https://github.com/yabwe/medium-editor)
 
 Have a look around... I won't bother you.
 
