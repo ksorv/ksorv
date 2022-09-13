@@ -1,8 +1,8 @@
 ## Hey there 😀!
 
-I'm **Saurav**, and I'm currently an *UG at IITK doing my bachelor's* in Electrical Eng.
+**Saurav** here, and I'm currently a *Frontend Engineer at Quicksell*.
 
-I'm a **Frontend Engineer** 🥳, aiming to become **Full Stack Web Dev** some day... 🤩
+I'm a **Frontend Engineer** now, aiming to become **Full Stack Web Dev** some day... 🤩
 
 I love new things, and doing new stuff, as long as It makes me spin my Processor.😂
 
